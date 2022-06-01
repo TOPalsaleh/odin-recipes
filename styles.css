@@ -1,0 +1,30 @@
+div{
+    text-align: center;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: transparent;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: black;
+    background-color: transparent;
+}
+button{
+    background-color: antiquewhite;
+    color: transparent;
+}
+button:hover {
+    background-color: antiquewhite;
+    color: transparent;
+    cursor: pointer;
+    transform: scale(1.25);
+    filter: brightness(120%);
+}
